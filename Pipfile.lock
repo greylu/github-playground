@@ -18,11 +18,11 @@
     "default": {
         "bootstrap-flask": {
             "hashes": [
-                "sha256:0a1bf3566b4e24081d9fca7ee5ff397abda7417ea4b03d2b40e7b2f5220201ab",
-                "sha256:6206380edaae7cfc9c90bb121d72239d7038e607037978cf6f8e51fb8a54dd13"
+                "sha256:735f7e193d983509d50f8e52ba66fc327dd5c4c2f09965809dc9762796c0e267",
+                "sha256:8e4f1e7e008fcf7b45629b12e05f2833eef61fedcd3dbdffb74ab3ad1d34f09b"
             ],
             "index": "pypi",
-            "version": "==1.0.6"
+            "version": "==1.0.7"
         },
         "click": {
             "hashes": [
