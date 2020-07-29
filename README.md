@@ -1,3 +1,3 @@
 # github-playground
 
-A test repo for Git and GitHub.
+A test repository for Git and GitHub.
